@@ -26,19 +26,6 @@
     }
   },
   {
-    "id": "health-check",
-    "config": {
-      "steps/health/hello-api.step.ts": {
-        "x": 0,
-        "y": 0
-      },
-      "steps/health/process-greeting.step.ts": {
-        "x": 350,
-        "y": 44
-      }
-    }
-  },
-  {
     "id": "SynapseAI",
     "config": {
       "steps/learning/save-learning-path.step.ts": {
@@ -60,6 +47,44 @@
       "steps/agents/generate_learning_path_step.py": {
         "x": 261,
         "y": 24
+      }
+    }
+  },
+  {
+    "id": "RoadMapAI",
+    "config": {
+      "steps/learning/save-learning-path.step.ts": {
+        "x": 700,
+        "y": 472
+      },
+      "steps/learning/get-user-learning-paths.step.ts": {
+        "x": -378,
+        "y": 37
+      },
+      "steps/learning/get-learning-path-details.step.ts": {
+        "x": -374,
+        "y": 269
+      },
+      "steps/learning/create-learning-path.step.ts": {
+        "x": 155,
+        "y": 57
+      },
+      "steps/agents/generate_learning_path_step.py": {
+        "x": 124,
+        "y": 384
+      }
+    }
+  },
+  {
+    "id": "health-check",
+    "config": {
+      "steps/health/process-greeting.step.ts": {
+        "x": 486,
+        "y": 43
+      },
+      "steps/health/hello-api.step.ts": {
+        "x": 0,
+        "y": 0
       }
     }
   }

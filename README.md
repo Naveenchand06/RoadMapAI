@@ -13,7 +13,15 @@ A big shoutout to **[Motia](https://motia.dev)** — an incredible tool that mak
 
 > **Note**: Video generation is currently not supported.
 
-## 🛠️ Technology Stack
+## � Screenshots
+
+### Application Flow
+![Application Flow](https://github.com/Naveenchand06/RoadMapAI/blob/main/screenshots/flow.png?raw=true)
+
+### Trace View
+![Trace View](https://github.com/Naveenchand06/RoadMapAI/blob/main/screenshots/trace.png?raw=true)
+
+## �🛠️ Technology Stack
 
 This application is built using **Motia**, a unified backend platform that simplifies development.
 
