@@ -1,5 +1,5 @@
 {
-  "name": "research-assistant",
+  "name": "roadmap-ai-server",
   "description": "",
   "scripts": {
     "postinstall": "motia install",
